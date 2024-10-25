@@ -1,0 +1,470 @@
+-Arcade-
+Atomiswave (29 Roms | 2.80GB)
+CPS1 (29 Roms | 70.6MB)
+CPS2 (37 Roms | 526MB)
+CPS3 (6 Roms | 278MB)
+Model2 (34 Roms | 647MB)
+Model3 (24 Roms | 1.55GB)
+NAOMI (117 Roms | 15.7GB)
+NAOMI2 (15 Roms | 4.13GB)
+NeoGeo (149 Roms | 2.62GB)
+
+Atomiswave (29 Roms | 2.80GB)
+	anmlbskt:	Animal Basket / Hustle Tamaire Kyousou (24 Jan 2005)
+	blokpong:	Block Pong-Pong
+	demofist:	Demolish Fist
+	dirtypig:	Dirty Pigskin Football
+	dolphin:	Dolphin Blue
+	xtrmhunt:	Extreme Hunting
+	xtrmhnt2:	Extreme Hunting 2
+	ftspeed:	Faster Than Speed
+	fotns:		Fist Of The North Star / Hokuto no Ken
+	ggisuka:	Guilty Gear Isuka
+	ggx15:		Guilty Gear X ver. 1.5
+	kov7sprt:	Knights of Valour - The Seven Spirits
+	maxspeed:	Maximum Speed
+	mslug6:		Metal Slug 6
+	ngbc:		NeoGeo Battle Coliseum
+	vfurlong:	Net@Select: Horse Racing - Victory Furlong
+	salmankt:	Net@Select: Salaryman Kintaro
+	rangrmsn:	Ranger Mission
+	samsptk:	Samurai Spirits Tenkaichi Kenkakuden
+	basschal:	Sega Bass Fishing Challenge Version A
+	claychal:	Sega Clay Challenge
+	sprtshot:	Sports Shooting USA
+	sushibar:	Sushi Bar / Toretore! Sushi
+	kofnw:		The King of Fighters Neowave
+	kofxi:		The King of Fighters XI
+	rumblef:	The Rumble Fish
+	rumblef2:	The Rumble Fish 2
+	waidrive:	WaiWai Drive
+	awbios:		Bios
+
+CPS1 (29 Roms | 70.6MB)
+	1941:		1941: Counter Attack (World 900227)
+	dino:		Cadillacs and Dinosaurs (World 930201)
+	captcomm:	Captain Commando (World 911202)
+	cawing:		Carrier Air Wing (World 901012)
+	dynwar:		Dynasty Wars (USA, B-Board 89624B-?)
+	ffight:		Final Fight (World, set 1)
+	forgottn:	Forgotten Worlds (World, newer)
+	ghouls:		Ghouls'n Ghosts (World)
+	knights:	Knights of the Round (World 911127)
+	msword:		Magic Sword: Heroic Fantasy (World 900725)
+	megaman:	Mega Man: The Power Battle (CPS1, USA 951006)
+	mtwins:		Mega Twins (World 900619)
+	mercs:		Mercs (World 900302)
+	mbombrd:	Muscle Bomber Duo: Ultimate Team Battle (World 931206)
+	nemo:		Nemo (World 901130)
+	pang3:		Pang! 3 (Europe 950601)
+	pnickj:		Pnickies (Japan 940608)
+	slammast:	Saturday Night Slam Masters (World 930713)
+	sf2:		Street Fighter II: The World Warrior (World 910522)
+	sf2ce:		Street Fighter II': Champion Edition (World 920513)
+	sf2hf:		Street Fighter II': Hyper Fighting (World 921209)
+	strider:	Strider (USA, B-Board 89624B-2)
+	kod:		The King of Dragons (World 910805)
+	punisher:	The Punisher (World 930422)
+	3wonders:	Three Wonders (World 910520)
+	unsquad:	U.N. Squadron (USA)
+	varth:		Varth: Operation Thunderstorm (World 920714)
+	wof:		Warriors of Fate (World 921031)
+	willow:		Willow (World)
+
+CPS2 (37 Roms | 526MB)
+	1944:		1944: The Loop Master (Europe 000620)
+	19xx:		19XX: The War Against Destiny (Europe 960104)
+	avsp:		Alien vs. Predator (Europe 940520)
+	armwar:		Armored Warriors (Europe 941024)
+	batcir:		Battle Circuit (Europe 970319)
+	csclub:		Capcom Sports Club (Europe 971017)
+	cybots:		Cyberbots: Fullmetal Madness (Europe 950424)
+	dstlk:		Darkstalkers: The Night Warriors (Europe 940705)
+	dimahoo:	Dimahoo (Europe 000121)
+	ddsom:		Dungeons & Dragons: Shadow over Mystara (Europe 960619)
+	ddtod:		Dungeons & Dragons: Tower of Doom (Europe 940412)
+	ecofghtr:	Eco Fighters (World 931203)
+	gigawing:	Giga Wing (USA 990222)
+	hsf2:		Hyper Street Fighter II: The Anniversary Edition (USA 040202)
+	mmatrix:	Mars Matrix: Hyper Solid Shooting (USA 000412)
+	msh:		Marvel Super Heroes (Europe 951024)
+	mshvsf:		Marvel Super Heroes Vs. Street Fighter (Europe 970625)
+	mvsc:		Marvel Vs. Capcom: Clash of Super Heroes (Europe 980123)
+	megaman2:	Mega Man 2: The Power Fighters (USA 960708)
+	mpang:		Mighty! Pang (Europe 001010)
+	nwarr:		Night Warriors: Darkstalkers' Revenge (Europe 950316)
+	progear:	Progear (USA 010117)
+	pzloop2:	Puzz Loop 2 (Europe 010302)
+	ringdest:	Ring of Destruction: Slammasters II (Europe 940902)
+	sfa2:		Street Fighter Alpha 2 (Europe 960229)
+	sfa3:		Street Fighter Alpha 3 (Europe 980904)
+	sfa:		Street Fighter Alpha: Warriors' Dreams (Europe 950727)
+	sfz2al:		Street Fighter Zero 2 Alpha (Asia 960826)
+	sgemf:		Super Gem Fighter: Mini Mix (USA 970904)
+	spf2t:		Super Puzzle Fighter II Turbo (Europe 960529)
+	ssf2t:		Super Street Fighter II Turbo (World 940223)
+	ssf2:		Super Street Fighter II: The New Challengers (World 931005)
+	vhunt2:		Vampire Hunter 2: Darkstalkers Revenge (Japan 970929)
+	vsav2:		Vampire Savior 2: The Lord of Vampire (Japan 970913)
+	vsav:		Vampire Savior: The Lord of Vampire (Europe 970519)
+	xmvsf:		X-Men Vs. Street Fighter (Europe 961004)
+	xmcota:		X-Men: Children of the Atom (Europe 950331)
+
+CPS3 (6 Roms | 278MB)
+	jojoba:		JoJo's Bizarre Adventure (Europe 991015, NO CD)
+	jojo:		JoJo's Venture (Europe 990128)
+	redearth:	Red Earth (Europe 961121)
+	sfiii2:		Street Fighter III 2nd Impact: Giant Attack (USA 970930)
+	sfiii3:		Street Fighter III 3rd Strike: Fight for the Future (Europe 990608)
+	sfiii:		Street Fighter III: New Generation (Europe 970204)
+
+Model2 (34 Roms | 647MB)
+	airwlkrs:	Air Walkers
+	bel:		Behind Enemy Lines
+	von:		Cyber Troopers Virtual-On - Twin (Export)
+	daytona:	Daytona USA (Revision A)
+	doa:		Dead or Alive (Model 2B, Revision C)
+	desert:		Desert Tank
+	dynabb:		Dynamite Baseball
+	dynabb97:	Dynamite Baseball 97 (Revision A)
+	dynamcop:	Dynamite Cop (Export, Model 2A)
+	fvipers:	Fighting Vipers (Revision D)
+	gunblade:	Gunblade NY (Revision A)
+	indy500:	INDY 500 Twin (Revision A, Newer)
+	lastbrnx:	Last Bronx (Export, Revision A)
+	manxtt:		Manx TT Superbike - DX/Twin (Revision D)
+	motoraid:	Motor Raid - Twin
+	overrev:	Over Rev (Model 2C, Revision A)
+	pltkids:	Pilot Kids (Model 2B, Revision A)
+	powsled:	Power Sled (Slave, Revision A)
+	rchase2:	Rail Chase 2 (Revision A)
+	srallyc:	Sega Rally Championship - Twin/DX (Revision C)
+	skisuprg:	Sega Ski Super G
+	stcc:		Sega Touring Car Championship (newer)
+	segawski:	Sega Water Ski (Japan, Revision A)
+	skytargt:	Sky Target
+	schamp:		Sonic Championship (USA)
+	sgt24h:		Super GT 24h
+	hotd:		The House of the Dead (Revision A)
+	topskatr:	Top Skater (Export, Revision A)
+	vcop:		Virtua Cop (Revision B)
+	vcop2:		Virtua Cop 2
+	vf2:		Virtua Fighter 2 (Version 2.1)
+	vstriker:	Virtua Striker (Revision A)
+	waverunr:	Wave Runner (Japan, Revision A)
+	zerogun:	Zero Gunner (Export, Model 2B)
+
+Model3 (24 Roms | 1.55GB)
+	dayto2pe:	Daytona USA 2: Power Edition (Japan)
+	dirtdvls:	Dirt Devils (Export, Revision A)
+	eca:		Emergency Call Ambulance (Export)
+	fvipers2:	Fighting Vipers 2 (Japan, Revision A)
+	harley:		Harley-Davidson and L.A. Riders (Export, Revision B)
+	lamachin:	L.A. Machineguns (Japan)
+	lemans24:	Le Mans 24 (Japan, Revision B)
+	magtruck:	Magical Truck Adventure (Export)
+	scud:		Scud Race / Sega Super GT - Twin/DX (Export)
+	bass:		Sega Bass Fishing
+	bassdx:		Sega Bass Fishing Deluxe (USA)
+	srally2:	Sega Rally 2 (Export)
+	srally2x:	Sega Rally 2 DX
+	skichamp:	Ski Champ (Japan)
+	spikeout:	Spikeout (Export, Revision C)
+	spikeofe:	Spikeout Final Edition (Export)
+	swtrilgy:	Star Wars Trilogy Arcade (Export, Revision A)
+	lostwsga:	The Lost World: Jurassic Park (Japan, Revision A)
+	oceanhun:	The Ocean Hunter (Japan, Revision A)
+	vf3:		Virtua Fighter 3 (Japan, Revision D)
+	vs298:		Virtua Striker 2 '98 (Step 2.0, Japan)
+	vs2v991:	Virtua Striker 2 '99.1 (Export, USA, Revision B)
+	vs2:		Virtua Striker 2 (Step 2.0, Export, USA)
+	von2:		Virtual On 2: Oratorio Tangram (Japan, Revision B)
+
+NAOMI (117 Roms | 15.7GB)
+	18wheelr:	18 Wheeler: American Pro Trucker (deluxe, Rev A)
+	alpilot:	Airline Pilots (World, Rev B)
+	ausfache:	Akatsuki Blitzkampf Ausf. Achse (Japan)
+	alienfnt:	Alien Front (Rev T)
+	asndynmt:	Asian Dynamite / Dynamite Deka EX
+	cspike:		Cannon Spike / Gun Spike
+	capsnk:		Capcom Vs. SNK: Millennium Fight 2000 (Rev C)
+	csmash:		Cosmic Smash (Rev A)
+	crzytaxi:	Crazy Taxi
+	doa2m:		Dead or Alive 2 Millennium
+	deathcox:	Death Crimson OX (USA)
+	derbyoc:	Derby Owners Club (Japan, Rev B)
+	derbyo2k:	Derby Owners Club 2000 Ver.2 (Japan, Rev A)
+	derbyoc2:	Derby Owners Club II Ver.2.1 (Japan, Rev B)
+	derbyocw:	Derby Owners Club World Edition EX (Rev D)
+	dybb99:		Dynamite Baseball '99 (Japan, Rev B)
+	dybbnao:	Dynamite Baseball NAOMI (Japan)
+	gram2000:	Giant Gram 2000
+	ggram2:		Giant Gram: All Japan Pro Wrestling 2 (Japan)
+	gwing2:		Giga Wing 2
+	ggx:		Guilty Gear X
+	gunsur2:	Gun Survivor 2 Biohazard Code: Veronica (World, BHF2 Ver.E)
+	hmgeo:		Heavy Metal: Geomatrix (Rev B)
+	illvelo:	Illvelo (Illmatic Envelope) (Japan)
+	jambo:		Jambo! Safari (Rev A)
+	kick4csh:	Kick '4' Cash (Export)
+	mamonoro:	Mamoru-kun wa Norowarete Shimatta! (Japan)
+	manicpnc:	Manic Panic Ghosts! (USA, Export)
+	mvsc2:		Marvel Vs. Capcom 2: New Age of Heroes (Export, Korea, Rev A)
+	mazan:		Mazan: Flash of the Blade (World, MAZ2 Ver.A)
+	mbaa:		Melty Blood Actress Again Version A (Japan, Rev A)
+	gundmct:	Mobile Suit Gundam: Federation Vs. Zeon
+	mushik2e:	Mushiking The King Of Beetles - Mushiking II / III / III+ (Ver. 2.001) (World)
+	mushik4e:	Mushiking The King Of Beetles - Mushiking IV / V / VI (World)
+	mushi2k4:	Mushiking The King Of Beetles 2004 Second (Japan)
+	mushi2k62:	Mushiking The King Of Beetles 2006 Second (Japan)
+	ninjaslt:	Ninja Assault (World, NJA2 Ver.A)
+	otrigger:	OutTrigger
+	pstone:		Power Stone
+	pstone2:	Power Stone 2
+	pjustic:	Project Justice / Moero! Justice Gakuen (Rev B)
+	radirgyn:	Radirgy Noa (Japan)
+	ringout:	Ring Out 4x4 (Rev A)
+	smarinef:	Sega Marine Fishing
+	sstrkfgt:	Sega Strike Fighter (Rev A)
+	sgtetris:	Sega Tetris
+	toukon4:	Shin Nihon Pro Wrestling Toukon Retsuden 4 Arcade Edition (Japan, TRF1 Ver.A)
+	sl2007:		Shooting Love 2007 (Japan)
+	shootopl:	Shootout Pool
+	shootplm:	Shootout Pool Prize (Export) / Shootout Pool The Medal (Japan) Version B
+	slasho:		Slashout
+	spawn:		Spawn: In the Demon's Hand (Rev B)
+	totd:		The Typing of the Dead (Rev A)
+	tokyobus:	Tokyo Bus Guide (Japan, Rev A)
+	tduno:		Touch de Uno! / Unou Nouryoku Check Machine (Japan)
+	tduno2:		Touch de Uno! 2 (Japan)
+	toyfight:	Toy Fighter
+	virnba:		Virtua NBA (USA)
+	vs2_2k:		Virtua Striker 2 Ver. 2000 (Rev C)
+	vtennis:	Virtua Tennis / Power Smash
+	vtenis2c:	Virtua Tennis 2 / Power Smash 2 (Rev A)
+	vonot:		Virtual On Oratorio Tangram M.S.B.S. ver5.66 2000 Edition
+	wrungp:		Wave Runner GP
+	wldkicks:	World Kicks (World, WK2 Ver.A)
+	smlg99:		World Series 99 / Super Major League 99
+	wwfroyal:	WWF Royal Rumble
+	zerogu2:	Zero Gunner 2
+	zombrvn:	Zombie Revenge (Rev A)
+	
+NAOMI (GD-ROM)
+	azumanga:	Azumanga Daioh Puzzle Bobble (GDL-0018)
+	bdrdown:	Border Down (Rev A) (GDL-0023A)
+	cvs2:		Capcom Vs. SNK 2: Mark Of The Millennium 2001 (USA) (GDL-0008)
+	cvsgd:		Capcom Vs. SNK: Millennium Fight 2000 Pro (Japan) (GDL-0004)
+	cfield:		Chaos Field (Japan) (GDL-0025)
+	cleoftp:	Cleopatra Fortune Plus (GDL-0012)
+	confmiss:	Confidential Mission (GDS-0001)
+	starseek:	Doki Doki Idol Star Seeker (GDL-0005)
+	ggxx:		Guilty Gear XX (GDL-0011)
+	ggxxrl:		Guilty Gear XX #Reload (Japan, Rev A) (GDL-0019A)
+	ggxxac:		Guilty Gear XX Accent Core (Japan) (GDL-0041)
+	ggxxsla:	Guilty Gear XX Slash (Japan, Rev A) (GDL-0033A)
+	ikaruga:	Ikaruga (GDL-0010)
+	jingystm:	Jingi Storm - The Arcade (Japan) (GDL-0037)
+	karous:		Karous (Japan) (GDL-0040)
+	kurucham:	Kurukuru Chameleon (Japan) (GDL-0034)
+	lupinsho:	Lupin The Third - The Shooting (Rev A) (GDS-0018A)
+	luptype:	Lupin The Third - The Typing (Rev A) (GDS-0021A)
+	meltybld:	Melty Blood Act Cadenza Ver. A (Japan) (GDL-0028C)
+	meltyb:		Melty Blood Act Cadenza Version B2 (Japan) (GDL-0039A)
+	gundmgd:	Mobile Suit Gundam: Federation Vs. Zeon (GDL-0001)
+	gundmxgd:	Mobile Suit Gundam: Federation Vs. Zeon DX (USA, Japan) (GDL-0006)
+	monkeyba:	Monkey Ball (GDS-0008)
+	chocomk:	Musapey's Choco Marker (Rev A) (GDL-0014A)
+	takoron:	Noukone Puzzle Takoron (Japan) (GDL-0042)
+	psyvar2:	Psyvariar 2 - The Will To Fabricate (Japan) (GDL-0024)
+	puyofev:	Puyo Pop Fever (World) (GDS-0034)
+	radirgy:	Radirgy (Japan, Rev A) (GDL-0032A)
+	senko:		Senko no Ronde (Japan, Rev A) (GDL-0030A)
+	senkosp:	Senko no Ronde Special (Export, Japan) (GDL-0038)
+	shikgam2:	Shikigami no Shiro II / The Castle of Shikigami II (GDL-0021)
+	slashout:	Slashout (GDS-0004)
+	spkrbtl:	Spikers Battle (GDS-0005)
+	sprtjam:	Sports Jam (GDS-0003)
+	sfz3ugd:	Street Fighter Zero 3 Upper (Japan) (GDL-0002)
+	tetkiwam:	Tetris Kiwamemichi (Japan) (GDL-0020)
+	mok:		The Maze of the Kings (GDS-0022)
+	trgheart:	Trigger Heart Exelica Ver.A (Japan) (GDL-0036A)
+	trizeal:	Trizeal (Japan) (GDL-0026)
+	undefeat:	Under Defeat (Japan) (GDL-0035)
+	vathlete:	Virtua Athletics / Virtua Athlete (GDS-0019)
+	dygolf:		Virtua Golf / Dynamic Golf (Rev A) (GDS-0009A)
+	vtennisg:	Virtua Tennis / Power Smash (GDS-0011)
+	vtennis2:	Virtua Tennis 2 / Power Smash 2 (Rev A) (GDS-0015A)
+	wccf322e:	World Club Champion Football European Clubs 2004-2005 Ver.3.22 (Export) (CDV-10015P)
+	wccf420e:	World Club Champion Football European Clubs 2005-2006 (Export) (CDV-10027)
+	wccf116:	World Club Champion Football Serie A 2001-2002 Ver.2 (Japan) (CDP-10001C)
+	wccf234j:	World Club Champion Football Serie A 2002-2003 Ver.2.34 (Japan) (CDV-10008)
+	wsbbgd:		World Series Baseball / Super Major League (GDS-0010)
+
+NAOMI2 (15 Roms | 4.13GB)
+	beachspi:	Beach Spikers (GDS-0014)
+	clubkcyc:	Club Kart for Cycraft (Rev A) (GDS-0029A)
+	clubkpzb:	Club Kart Prize Version B (Export, Japan)
+	clubk2k3:	Club Kart: European Session (2003, Rev A)
+	sgdrvsim:	Driving Simulator
+	initdexp:	Initial D Arcade Stage (Export, Rev A) (GDS-0025A)
+	initdv2j:	Initial D Arcade Stage Ver. 2 (Japan, Rev B) (GDS-0026B)
+	inidv3cy:	Initial D Arcade Stage Ver. 3 Cycraft Edition (Export, Rev B) (GDS-0039B)
+	soulsurf:	Soul Surfer (Rev A)
+	kingrt66:	The King of Route 66 (Rev A)
+	vf4cart:	Virtua Fighter 4 (World)
+	vf4evoct:	Virtua Fighter 4: Evolution (World)
+	vf4tuned:	Virtua Fighter 4: Final Tuned (Ver. B) (GDS-0036F)
+	vstrik3c:	Virtua Striker 3 (World, Rev B)
+	wldrider:	Wild Riders
+
+NeoGeo (149 Roms | 2.62GB)
+	2020bb:		2020 Super Baseball (set 1)
+	3countb:	3 Count Bout / Fire Suplex (NGM-043 ~ NGH-043)
+	sonicwi2:	Aero Fighters 2 / Sonic Wings 2
+	sonicwi3:	Aero Fighters 3 / Sonic Wings 3
+	aodk:		Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku (ADM-008 ~ ADH-008)
+	alpham2:	Alpha Mission II / ASO II:	Last Guardian (NGM-007 ~ NGH-007)
+	androdun:	Andro Dunos (NGM-049 ~ NGH-049)
+	aof:		Art of Fighting / Ryuuko no Ken (NGM-044 ~ NGH-044)
+	aof2:		Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056)
+	aof3:		Art of Fighting 3: The Path of the Warrior / Art of Fighting: Ryuuko no Ken Gaiden
+	b2b:		Bang Bang Busters (2010 NCI release)
+	bangbead:	Bang Bead
+	bstars2:	Baseball Stars 2
+	bstars:		Baseball Stars Professional (NGM-002)
+	flipshot:	Battle Flip Shot
+	blazstar:	Blazing Star
+	bjourney:	Blue's Journey / Raguy (ALM-001 ~ ALH-001)
+	breakers:	Breakers
+	breakrev:	Breakers Revenge
+	burningf:	Burning Fight (NGM-018 ~ NGH-018)
+	ctomaday:	Captain Tomaday
+	ironclad:	Choutetsu Brikin'ger / Iron Clad (prototype)
+	crsword:	Crossed Swords (ALM-002 ~ ALH-002)
+	crswd2bl:	Crossed Swords 2 (bootleg of CD version)
+	cyberlip:	Cyber-Lip (NGM-010)
+	diggerma:	Digger Man (prototype)
+	doubledr:	Double Dragon (Neo-Geo)
+	dragonsh:	Dragon's Heaven (development board)
+	eightman:	Eight Man (NGM-025 ~ NGH-025)
+	kabukikl:	Far East of Eden:	Kabuki Klash / Tengai Makyou:	Shin Den
+	fatfury1:	Fatal Fury: King of Fighters / Garou Densetsu:	Shukumei no Tatakai
+	fatfury2:	Fatal Fury 2 / Garou Densetsu 2:	Arata-naru Tatakai (NGM-047 ~ NGH-047)
+	fatfury3:	Fatal Fury 3: Road to the Final Victory / Garou Densetsu 3: Haruka-naru Tatakai
+	fatfursp:	Fatal Fury Special / Garou Densetsu Special (NGM-058 ~ NGH-058, set 1)
+	fightfev:	Fight Fever / Wang Jung Wang (set 1)
+	fbfrenzy:	Football Frenzy (NGM-034 ~ NGH-034)
+	galaxyfg:	Galaxy Fight:	Universal Warriors
+	ganryu:		Ganryu / Musashi Ganryuki
+	garou:		Garou:	Mark of the Wolves (NGM-2530)
+	gpilots:	Ghost Pilots (NGM-020 ~ NGH-020)
+	ghostlop:	Ghostlop (prototype)
+	goalx3:		Goal! Goal! Goal!
+	gururin:	Gururin
+	karnovr:	Karnov's Revenge / Fighter's History Dynamite
+	kotm:		King of the Monsters (set 1)
+	kotm2:		King of the Monsters 2:	The Next Thing (NGM-039 ~ NGH-039)
+	kizuna:		Kizuna Encounter:	Super Tag Battle / Fu'un Super Tag Battle
+	lasthope:	Last Hope (bootleg AES to MVS conversion, no coin support)
+	lresort:	Last Resort
+	lbowling:	League Bowling (NGM-019 ~ NGH-019)
+	legendos:	Legend of Success Joe / Ashita no Joe Densetsu
+	magdrop2:	Magical Drop II
+	magdrop3:	Magical Drop III
+	maglord:	Magician Lord (NGM-005)
+	matrim:		Matrimelee / Shin Gouketsuji Ichizoku Toukon (NGM-2660 ~ NGH-2660)
+	mslug:		Metal Slug:	Super Vehicle-001
+	mslug2:		Metal Slug 2:	Super Vehicle-001/II (NGM-2410 ~ NGH-2410)
+	mslug3:		Metal Slug 3 (NGM-2560)
+	mslug4:		Metal Slug 4 (NGM-2630)
+	mslug5:		Metal Slug 5 (NGM-2680)
+	mslugx:		Metal Slug X:	Super Vehicle-001 (NGM-2500 ~ NGH-2500)
+	miexchng:	Money Puzzle Exchanger / Money Idol Exchanger
+	mutnat:		Mutation Nation (NGM-014 ~ NGH-014)
+	nam1975:	NAM-1975 (NGM-001 ~ NGH-001)
+	neobombe:	Neo Bomberman
+	neodrift:	Neo Drift Out:	New Technology
+	neomrdo:	Neo Mr. Do!
+	turfmast:	Neo Turf Masters / Big Tournament Golf
+	neocup98:	Neo-Geo Cup '98:	The Road to the Victory
+	nitd:		Nightmare in the Dark
+	ncombat:	Ninja Combat (NGM-009)
+	ncommand:	Ninja Commando
+	ninjamas:	Ninja Master's:	Haoh-ninpo-cho
+	overtop:	Over Top
+	panicbom:	Panic Bomber
+	pgoal:		Pleasure Goal / Futsal:	5 on 5 Mini Soccer (NGM-219)
+	pnyaa:		Pochi and Nyaa (Ver 2.02)
+	popbounc:	Pop 'n Bounce / Gapporin
+	pspikes2:	Power Spikes II (NGM-068)
+	preisle2:	Prehistoric Isle 2
+	pulstar:	Pulstar
+	pbobblen:	Puzzle Bobble / Bust-A-Move (Neo-Geo, NGM-083)
+	pbobbl2n:	Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo)
+	puzzledp:	Puzzle De Pon!
+	puzzldpr:	Puzzle De Pon! R!
+	joyjoy:		Puzzled / Joy Joy Kid (NGM-021 ~ NGH-021)
+	rotd:		Rage of the Dragons (NGM-2640?)
+	ragnagrd:	Ragnagard / Shin-Oh-Ken
+	rbff1:		Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095 ~ NGH-095)
+	rbff2:		Real Bout Fatal Fury 2:	The Newcomers / Real Bout Garou Densetsu 2: The Newcomers
+	rbffspec:	Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special
+	ridhero:	Riding Hero (NGM-006 ~ NGH-006)
+	roboarmy:	Robo Army
+	samsho:		Samurai Shodown / Samurai Spirits (NGM-045)
+	samsho2:	Samurai Shodown II / Shin Samurai Spirits:	Haohmaru Jigokuhen (NGM-063 ~ NGH-063)
+	samsho3:	Samurai Shodown III / Samurai Spirits:	Zankurou Musouken (NGM-087)
+	samsho4:	Samurai Shodown IV: Amakusa's Revenge / Samurai Spirits: Amakusa Kourin
+	samsho5:	Samurai Shodown V / Samurai Spirits Zero (NGM-2700, set 1)
+	samsh5sp:	Samurai Shodown V Special / Samurai Spirits Zero Special (NGM-2720)
+	savagere:	Savage Reign / Fu'un Mokushiroku:	Kakutou Sousei
+	sengoku:	Sengoku / Sengoku Denshou (NGM-017 ~ NGH-017)
+	sengoku2:	Sengoku 2 / Sengoku Denshou 2
+	sengoku3:	Sengoku 3 / Sengoku Densho 2001 (set 1)
+	shocktr2:	Shock Troopers:	2nd Squad
+	shocktro:	Shock Troopers (set 1)
+	svc:		SNK vs. Capcom:	SVC Chaos (NGM-2690 ~ NGH-2690)
+	socbrawl:	Soccer Brawl (NGM-031)
+	spinmast:	Spin Master / Miracle Adventure
+	stakwin:	Stakes Winner / Stakes Winner:	GI Kinzen Seiha e no Michi
+	stakwin2:	Stakes Winner 2
+	strhoop:	Street Hoop / Street Slam / Dunk Dream (DEM-004 ~ DEH-004)
+	s1945p:		Strikers 1945 Plus
+	sbp:		Super Bubble Pop
+	sdodgeb:	Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu
+	ssideki:	Super Sidekicks / Tokuten Ou
+	ssideki2:	Super Sidekicks 2: The World Championship / Tokuten Ou 2: Real Fight Football 	ssideki3:	Super Sidekicks 3:	The Next Glory / Tokuten Ou 3:	Eikou e no Chousen
+	tws96:		Tecmo World Soccer '96
+	twsoc96:	Tecmo World Soccer '96
+	irrmaze:	The Irritating Maze / Ultra Denryu Iraira Bou
+	kof94:		The King of Fighters '94 (NGM-055 ~ NGH-055)
+	kof95:		The King of Fighters '95 (NGM-084)
+	kof96:		The King of Fighters '96 (NGM-214)
+	kof97:		The King of Fighters '97 (NGM-2320)
+	kof98:		The King of Fighters '98: The Slugfest / King of Fighters '98:	Dream Match Never Ends
+	kof99:		The King of Fighters '99:	Millennium Battle (NGM-2510)
+	kof2000:	The King of Fighters 2000 (NGM-2570 ~ NGH-2570)
+	kof2001:	The King of Fighters 2001 (NGM-262?)
+	kof2002:	The King of Fighters 2002 (NGM-2650 ~ NGH-2650)
+	kof2003:	The King of Fighters 2003 (NGM-2710, Export)
+	lastblad:	The Last Blade / Bakumatsu Roman: Gekka no Kenshi (NGM-2340)
+	lastbld2:	The Last Blade 2 / Bakumatsu Roman: Dai Ni Maku Gekka no Kenshi (NGM-2430 ~ NGH-2430)
+	superspy:	The Super Spy (NGM-011 ~ NGH-011)
+	ssideki4:	The Ultimate 11:	The SNK Football Championship / Tokuten Ou:	Honoo no Libero
+	trally:		Thrash Rally (ALM-003 ~ ALH-003)
+	tophuntr:	Top Hunter:	Roddy & Cathy (NGM-046)
+	tpgolf:		Top Player's Golf (NGM-003 ~ NGH-003)
+	twinspri:	Twinkle Star Sprites
+	viewpoin:	Viewpoint
+	gowcaizr:	Voltage Fighter:	Gowcaizer / Choujin Gakuen Gowcaizer
+	wakuwak7:	Waku Waku 7
+	wjammers:	Windjammers / Flying Power Disc
+	wh1:		World Heroes (ALM-005)
+	wh2:		World Heroes 2 (ALM-006 ~ ALH-006)
+	wh2j:		World Heroes 2 Jet (ADM-007 ~ ADH-007)
+	whp:		World Heroes Perfect
+	zedblade:	Zed Blade / Operation Ragnarok
+	zintrckb:	Zintrick / Oshidashi Zentrix (bootleg of CD version)
+	zupapa:		Zupapa!
+	neogeo:		Neo-Geo MV-6F
