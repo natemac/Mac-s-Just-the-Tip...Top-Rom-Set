@@ -1,4 +1,4 @@
-# Mac-s-Just-the-Tip...Top-Rom-Set
+# Mac's Just the Tip...Top Rom Set
 Rom Set for Emulation of just the best games not every game, because who has the time.
 
 Looking for Public Comment on games that are missing, duplicates, arn't good from this list.
