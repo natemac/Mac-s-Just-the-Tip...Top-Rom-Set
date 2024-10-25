@@ -48,11 +48,11 @@ Sixth Generation (1998-2013)
 
     Sega Dreamcast (1998) (91 Roms | 40.8GB)
     Sony PlayStation 2 (2000) (24 Roms | 86.6GB)
-    Nintendo GameCube (2001) (TBD)
+    Nintendo GameCube (2001) (29 Roms | 38.1GB)
     Microsoft Xbox (2001) (TBD)
     Nintendo Game Boy Advance (2001) (235 Roms | 1.03GB)
     PlayStation Portable (PSP) (2004) (49 Roms | 42.9GB)
-    Nintendo DS (2004) (TBD)
+    Nintendo DS (2004) (100 Roms | 5.45GB)
 
 Seventh Generation (2005-2017)
 
