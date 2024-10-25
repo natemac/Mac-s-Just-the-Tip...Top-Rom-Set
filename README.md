@@ -51,7 +51,7 @@ Sixth Generation (1998-2013)
     Nintendo GameCube (2001) (TBD)
     Microsoft Xbox (2001) (TBD)
     Nintendo Game Boy Advance (2001) (235 Roms | 1.03GB)
-    PlayStation Portable (PSP) (2004) (TBD)
+    PlayStation Portable (PSP) (2004) (49 Roms | 42.9GB)
     Nintendo DS (2004) (TBD)
 
 Seventh Generation (2005-2017)
