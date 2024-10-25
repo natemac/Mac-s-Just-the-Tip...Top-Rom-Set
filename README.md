@@ -1,5 +1,7 @@
 # Mac's Just the Tip...Top Rom Set
-Rom Set for Emulation of just the best games not every game, because who has the time.
+_There are no ROM files here, this is just for inforamtion_
+
+**Rom Set for Emulation of just the best games not every game, because who has the time.**
 
 Looking for Public Comment on games that are missing, duplicates, arn't good from this list.
 The 5th & 6th Generation Consoles could use some feedback as these were not focused on as much as the early generations.
@@ -79,5 +81,5 @@ Arcade
     NAOMI (117 Roms | 15.7GB)
     NAOMI2 (15 Roms | 4.13GB)
     NeoGeo (149 Roms | 2.62GB)
-...more Arcade to follow.
+    ...more Arcade to follow.
 
