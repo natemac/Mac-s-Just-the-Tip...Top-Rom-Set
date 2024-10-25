@@ -67,3 +67,17 @@ Eighth Generation (2012-present)
     Sony PlayStation 4 (2013) (N/A)
     Microsoft Xbox One (2013) (N/A)
     Nintendo Switch (2017) (TBD)
+
+Arcade
+
+    Atomiswave (29 Roms | 2.80GB)
+    CPS1 (29 Roms | 70.6MB)
+    CPS2 (37 Roms | 526MB)
+    CPS3 (6 Roms | 278MB)
+    Model2 (34 Roms | 647MB)
+    Model3 (24 Roms | 1.55GB)
+    NAOMI (117 Roms | 15.7GB)
+    NAOMI2 (15 Roms | 4.13GB)
+    NeoGeo (149 Roms | 2.62GB)
+...more Arcade to follow.
+
