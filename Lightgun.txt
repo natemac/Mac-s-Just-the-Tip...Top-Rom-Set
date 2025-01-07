@@ -1,0 +1,101 @@
+-Lightgun-
+MAME (94 Roms | 6.5GB)
+
+MAME (94 Roms | 6.5GB)
+	area51:		Area 51 (R3000)
+	area51mx:	Area 51 / Maximum Force Duo v2.0
+	bang:		Bang!
+	bbusters:	Beast Busters (World)
+	borntofi:	Born To Fight (set 1)
+	bubbletr:	Bubble Trouble - Golly! Ghost! 2 (World, Rev B)
+	cndypuzl:	Candy Puzzle (v1.0)
+	carnevil:	CarnEvil (v1.0.3)
+	cheyenne:	Cheyenne (version 1.0)
+	chiller:	Chiller (version 3.0)
+	claypign:	Clay Pigeon (version 2.0)
+	combat:		Combat (version 3.0)
+	cracksht:	Crackshot (version 2.0)
+	critcrsh:	Critter Crusher (EA 951204 V1.000)
+	crossbow:	Crossbow (version 2.0)
+	cryptklr:	Crypt Killer (GQ420 UAA)
+	deerhunt:	Deer Hunting USA V4.3
+	desertgu:	Desert Gun
+	dragngun:	Dragon Gun (US)
+	pc_duckh:	Duck Hunt (PlayChoice-10)
+	eggventr:	Egg Venture (Release 10)
+	evilngt:	Evil Night (ver UBA)
+	funcube2:	Funcube 2 (v1.1)
+	funcube4:	Funcube 4 (v1.0)
+	ghoshunt:	Ghost Hunter
+	ghlpanic:	Ghoul Panic (World, OB2/VER.A)
+	golgo13:	Golgo 13 (Japan, GLG1/VER.A)
+	g13knd:		Golgo 13 Kiseki no Dandou (Japan, GLS1/VER.A)
+	gollygho:	Golly! Ghost!
+	greatgun:	Great Guns
+	gunbustr:	Gunbuster (World)
+	hammer:		Hammer
+	haremchl:	Harem Challenge
+	hidctch3:	Hidden Catch 3 (ver 1.00 / pcb ver 3.05)
+	hitnmiss:	Hit 'n Miss (version 3.0)
+	pc_hgaly:	Hogan's Alley (PlayChoice-10)
+	invasnab:	Invasion - The Abductors (version 5.0)
+	jdredd:		Judge Dredd (Rev C Dec. 17 1997)
+	lghost:		Laser Ghost (World) (FD1094 317-0166)
+	lasstixx:	Laser Strixx 2
+	lethalen:	Lethal Enforcers (ver UAE, 11/19/92 15:04)
+	le2:		Lethal Enforcers II: Gun Fighters (ver EAA)
+	lethalj:	Lethal Justice (Version 2.3)
+	loffire:	Line of Fire / Bakudan Yarou (World) (FD1094 317-0136)
+	lordgun:	Lord of Gun (World)
+	luckywld:	Lucky & Wild
+	maletmad:	Mallet Madness (v2.1)
+	maxforce:	Maximum Force v1.05
+	mechatt:	Mechanized Attack (World)
+	megat5:		Megatouch 5 (9255-60-01 R0I, Standard version)
+	megat6:		Megatouch 6 (9255-80-01 R0A, Standard version)
+	megat3:		Megatouch III (9255-20-01 R0N, Standard version)
+	megat4:		Megatouch IV (9255-40-01 R0E, Standard version)
+	gdfs:		Mobile Suit Gundam Final Shooting (Japan)
+	nycaptor:	N.Y. Captor (rev 2)
+	nstocker:	Night Stocker (10/6/86)
+	oneshot:	One Shot One Kill
+	opwolf:		Operation Wolf (World, rev 2, set 1)
+	opwolf3:	Operation Wolf 3 (World)
+	pbst30:		Pit Boss Supertouch 30 (9234-10-01 R0)
+	ptblank:	Point Blank (World, GN2 Rev B, set 1)
+	ptblank2:	Point Blank 2 (World, GNB5/VER.A)
+	policetr:	Police Trainer (Rev 1.3B, Rev 0.3 PCB)
+	rchase:		Rail Chase (World)
+	rapidfir:	Rapid Fire (v1.1, Build 239)
+	sshooter:	Sharpshooter (Rev 1.9)
+	shootgal:	Shooting Gallery
+	shtngmst:	Shooting Master (8751 315-5159a)
+	sgunner:	Steel Gunner (Rev B)
+	sgunner2:	Steel Gunner 2 (US)
+	targeth:	Target Hits (ver 1.1, Checksum 5152)
+	tickee:		Tickee Tickats
+	timecris:	Time Crisis (World, TS2 Ver.B)
+	totlvice:	Total Vice (ver EBA)
+	tm:			Touchmaster (v3.00 Euro)
+	tm2k:		Touchmaster 2000 Plus (v4.63 Standard)
+	tm3k:		Touchmaster 3000 (v5.02 Standard)
+	tm4k:		Touchmaster 4000 (v6.03 Standard)
+	tm5k:		Touchmaster 5000 (v7.10 Standard)
+	tm7k:		Touchmaster 7000 (v8.04 Standard)
+	tm8k:		Touchmaster 8000 (v9.04 Standard)
+	trophyh:	Trophy Hunting - Bear & Moose V1.00
+	turkhunt:	Turkey Hunting USA V1.00
+	tutstomb:	Tut's Tomb
+	undrfire:	Under Fire (World)
+	duckhunt:	Vs. Duck Hunt (set DH3 E)
+	vsfdf:		Vs. Freedom Force
+	vsgshoe:	Vs. Gumshoe (set GM5)
+	hogalley:	Vs. Hogan's Alley (set HA4-1 E-1)
+	whodunit:	Who Dunit (version 9.0)
+	pc_wgnmn:	Wild Gunman (PlayChoice-10)
+	wschamp:	Wing Shooting Championship V2.00
+	zeropnt:	Zero Point (set 1)
+	zeropnt2:	Zero Point 2
+	zombraid:	Zombie Raid (9/28/95, US)
+
+	

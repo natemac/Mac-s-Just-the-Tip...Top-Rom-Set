@@ -1,13 +1,20 @@
 -Arcade-
-Atomiswave (29 Roms | 2.80GB)
-CPS1 (29 Roms | 70.6MB)
-CPS2 (37 Roms | 526MB)
-CPS3 (6 Roms | 278MB)
-Model2 (34 Roms | 647MB)
-Model3 (24 Roms | 1.55GB)
-NAOMI (117 Roms | 15.7GB)
-NAOMI2 (15 Roms | 4.13GB)
-NeoGeo (149 Roms | 2.62GB)
+Atomiswave	(29 Roms | 2.80GB)
+CPS1		(29 Roms | 70.6MB)
+CPS2		(37 Roms | 526MB)
+CPS3		 (6 Roms | 278MB)
+FBNeo ()
+Hyper NeoGeo	 (8 Roms | 366MB)
+Laser Disc	(17 Roms | 119GB)
+MAME	     (2,437 Roms | 6.3GB)
+MAME CHDs	(53 Roms | 16.4GB)
+Model2		(34 Roms | 647MB)
+Model3		(24 Roms | 1.55GB)
+NAMCO 2X6	(37 Roms | 23.9GB)
+NAOMI	       (117 Roms | 15.7GB)
+NAOMI2		(15 Roms | 4.13GB)
+NeoGeo	       (149 Roms | 2.62GB)
+Triforce	 (5 Roms | 2.55GB)
 
 Atomiswave (29 Roms | 2.80GB)
 	anmlbskt:	Animal Basket / Hustle Tamaire Kyousou (24 Jan 2005)
@@ -118,6 +125,16 @@ CPS3 (6 Roms | 278MB)
 	sfiii3:		Street Fighter III 3rd Strike: Fight for the Future (Europe 990608)
 	sfiii:		Street Fighter III: New Generation (Europe 970204)
 
+HyperNeoGeo (8 Roms | 366MB)
+	bbust2::	Beast Busters: Second Nightmare
+	buriki:		Buriki One: World Grapple Tournament '99 in Tokyo (rev.B)
+	fatfurwa::	Fatal Fury: Wild Ambition / Garou Densetsu: Wild Ambition (rev.A)
+	hng64::		Hyper NeoGeo 64 BIOS
+	roadedge::	Roads Edge / Round Trip RV (rev.B)
+	sams64::	Samurai Shodown 64 / Samurai Spirits / Paewang Jeonseol 64
+	sams64_2::	Samurai Shodown 64: Warriors Rage / Samurai Spirits 2: Asura Zanmaden
+	xrally::	Xtreme Rally / Off Beat Racer!
+
 Model2 (34 Roms | 647MB)
 	airwlkrs:	Air Walkers
 	bel:		Behind Enemy Lines
@@ -179,6 +196,49 @@ Model3 (24 Roms | 1.55GB)
 	vs2v991:	Virtua Striker 2 '99.1 (Export, USA, Revision B)
 	vs2:		Virtua Striker 2 (Step 2.0, Export, USA)
 	von2:		Virtual On 2: Oratorio Tangram (Japan, Revision B)
+
+NAMCO 2X6 (37 Roms | 23.9GB)
+NAMCO 246
+	acedriv3:	Ace Driver 3: Final Turn
+	batlgr3:	Battle Gear 3 (Ver.2.01A)
+	bldyr3b:	Bloody Roar 3 (bootleg)
+	fghtjam:	Capcom Fighting Jam (JAM1 Ver. A)
+	cobrata:	Cobra: The Arcade (CBR1 Ver. B)
+	dragchrn:	Dragon Chronicles (DC001 Ver. A)
+	fateulc:	Fate: Unlimited Codes (FUD1 ver. A)
+	gundzaft:	Gundam Seed: Federation vs. Z.A.F.T. (SED1 Ver. A)
+	minnadk:	Minna de Kitaeru Zenno Training (Ver. 1.50)
+	zgundmdx:	Mobile Suit Z-Gundam: A.E.U.G. vs Titans DX (ZDX1 Ver. A)
+	netchu02c:	Netchuu Pro Yakyuu 2002 (NPY1 Ver. C)
+	prdgp03:	Pride GP 2003 (PR21 Ver. A)
+	sukuinuf:	Quiz and Variety Suku Suku Inufuku 2 (IN2 Ver. A)
+	qgundam:	Quiz Mobile Suit Gundam: Monsenshi (QG1 Ver. A)
+	rrvac:		Ridge Racer V Arcade Battle (RRV3 Ver. A)
+	sbxc:		Sengoku Basara X Cross
+	scptour:	Smash Court Pro Tournament (SCP1)
+	soulclb2:	Soul Calibur II (SC23 Ver. A)
+	soulclb3:	Soul Calibur III: Arcade Edition (SC31001-NA-A key, NA-B disc)
+	taiko7:		Taiko no Tatsujin 7 (TK71-NA-A)
+	taiko8:		Taiko no Tatsujin 8 (TK8100-1-NA-A)
+	tekken4:	Tekken 4 (TEF3 Ver. C)
+	timecrs3:	Time Crisis 3 (TST1)
+	vnight:		Vampire Night (VPN3 Ver. B)
+	wanganmr:	Wangan Midnight R (WMR1 Ver. A)
+	zoidiexp:	Zoids Infinity EX Plus (ver. 2.10)
+
+NAMCO 256
+	gdvsgdnx:	Gundam vs. Gundam Next
+	kinniku:	Kinnikuman Muscle Grand Prix (KN1 Ver. A)
+	kinniku2:	Kinnikuman Muscle Grand Prix 2 (KN2 Ver. A)
+	motogp:		MotoGP (MGP1004-NA-B)
+	superdbz:	Super Dragon Ball Z (DB1 Ver. B)
+	taiko10:	Taiko no Tatsujin 10 (T101001-NA-A)
+	taiko11:	Taiko no Tatsujin 11 (T111001-NA-A)
+	taiko9:		Taiko no Tatsujin 9 (TK91001-NA-A)
+	tekken5d:	Tekken 5 Dark Resurrection (TED1 Ver. A)
+	tekken51:	Tekken 5.1 (TE51 Ver. B)
+	yuyuhaku:	The Battle of Yu Yu Hakusho: Shitou! Ankoku Bujutsukai!
+	timecrs4:	Time Crisis 4 (World, TSF1002-NA-A)
 
 NAOMI (117 Roms | 15.7GB)
 	18wheelr:	18 Wheeler: American Pro Trucker (deluxe, Rev A)
@@ -434,7 +494,8 @@ NeoGeo (149 Roms | 2.62GB)
 	sbp:		Super Bubble Pop
 	sdodgeb:	Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu
 	ssideki:	Super Sidekicks / Tokuten Ou
-	ssideki2:	Super Sidekicks 2: The World Championship / Tokuten Ou 2: Real Fight Football 	ssideki3:	Super Sidekicks 3:	The Next Glory / Tokuten Ou 3:	Eikou e no Chousen
+	ssideki2:	Super Sidekicks 2: The World Championship / Tokuten Ou 2: Real Fight Football 	
+	ssideki3:	Super Sidekicks 3: The Next Glory / Tokuten Ou 3:	Eikou e no Chousen
 	tws96:		Tecmo World Soccer '96
 	twsoc96:	Tecmo World Soccer '96
 	irrmaze:	The Irritating Maze / Ultra Denryu Iraira Bou
@@ -468,3 +529,10 @@ NeoGeo (149 Roms | 2.62GB)
 	zintrckb:	Zintrick / Oshidashi Zentrix (bootleg of CD version)
 	zupapa:		Zupapa!
 	neogeo:		Neo-Geo MV-6F
+
+Triforce (5 Roms| 2.55GB)
+	F-ZERO AX
+	Mario Kart Arcade GP
+	Mario Kart Arcade GP 2
+	Virtua Striker 4 Ver.2006 (Export)
+	Virtua Striker 2002 (Export)

@@ -1,12 +1,12 @@
 -5th Generation-
-3DO (113 Roms | 38.1GB)
-Atari Jaguar (40 Roms | 2.18GB)
-NEC PC-FX (15 Roms | 7.97GB)
-Nintendo 64 (274 Roms | 3.29GB)
-Nintendo 64DD (11 Roms | 213MB)
-Nintendo Game Boy Color (137 Roms | 84.2MB)
-Sega Saturn (72 Roms | 20.3GB)
-Sony PlayStation (95 Roms | 29.4GB)
+Atari Jaguar			 (40 Roms | 2.18GB)
+NEC PC-FX	 			 (15 Roms | 7.97GB)
+Nintendo 64 			(274 Roms | 3.29GB)
+Nintendo 64DD			 (11 Roms | 213MB)
+Nintendo Game Boy Color	(137 Roms | 84.2MB)
+Panasonic 3DO			(113 Roms | 38.1GB)
+Sega Saturn				 (72 Roms | 20.3GB)
+Sony PlayStation		 (95 Roms | 29.4GB)
 
 
 3DO (113 Roms | 38.1GB)
