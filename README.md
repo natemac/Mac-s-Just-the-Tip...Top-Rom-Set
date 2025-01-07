@@ -8,19 +8,19 @@ The 5th & 6th Generation Consoles could use some feedback as these were not focu
 
 Second Generation (1976-1992)
 
-    Atari 2600	           (124 Roms | 631KB)
-    Atari 5200              (12 Roms | 85.4KB)
-    ColecoVision	    	(26 Roms | 286KB)
-    Mattel Intellivision    (18 Roms | 127KB)
-    Magnavox Odyssey²	    (13 Roms | 36.9KB)
-    Vectrex 		        (11 Roms | 46.2KB)
+    Atari 2600 (124 Roms | 631KB)
+    Atari 5200 (12 Roms | 85.4KB)
+    ColecoVision (26 Roms | 286KB)
+    Mattel Intellivision (18 Roms | 127KB)
+    Magnavox Odyssey² (13 Roms | 36.9KB)
+    Vectrex (11 Roms | 46.2KB)
 
 Third Generation (1983-2003)
 
-    Nintendo Entertainment System (NES) (1983)    (364 Roms | 41.4MB)
-    Nintendo Famicom Disk System (1986)            (35 Roms | 1.98MB)
-    Sega Master System (1985)                     (159 Roms | 21MB)
-    Atari 7800 (1986)                              (53 Roms | 1.57MB)
+    Nintendo Entertainment System (NES) (1983) (364 Roms | 41.4MB)
+    Nintendo Famicom Disk System (1986) (35 Roms | 1.98MB)
+    Sega Master System (1985) (159 Roms | 21MB)
+    Atari 7800 (1986) (53 Roms | 1.57MB)
 
 Fourth Generation (1987-2004)
 
@@ -76,10 +76,15 @@ Arcade
     CPS1 (29 Roms | 70.6MB)
     CPS2 (37 Roms | 526MB)
     CPS3 (6 Roms | 278MB)
+    FBNeo
+    Hyper NeoGeo (8 Roms | 366MB)
+    Laser Disc (17 Roms | 119GB)
+    MAME (2,437 Roms | 6.3GB)
+    MAME CHDs (53 Roms | 16.4GB)
     Model2 (34 Roms | 647MB)
     Model3 (24 Roms | 1.55GB)
+    NAMCO 2X6 (37 Roms | 23.9GB)
     NAOMI (117 Roms | 15.7GB)
     NAOMI2 (15 Roms | 4.13GB)
     NeoGeo (149 Roms | 2.62GB)
-    ...more Arcade to follow.
-
+    Triforce (5 Roms | 2.55GB)
