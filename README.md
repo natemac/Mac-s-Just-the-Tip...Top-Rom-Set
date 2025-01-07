@@ -8,19 +8,19 @@ The 5th & 6th Generation Consoles could use some feedback as these were not focu
 
 Second Generation (1976-1992)
 
-    Atari 2600 (1977) (124 Roms | 631KB)
-    Magnavox Odyssey² (1978) (13 Roms | 36.9KB)
-    Intellivision (1979) (18 Roms | 127KB)
-    ColecoVision (1982) (26 Roms | 286KB)
-    Atari 5200 (1982) (12 Roms | 85.4KB)
-    Vectrex (1982) (11 Roms | 46.2KB)
+    Atari 2600	           (124 Roms | 631KB)
+    Atari 5200              (12 Roms | 85.4KB)
+    ColecoVision	    	(26 Roms | 286KB)
+    Mattel Intellivision    (18 Roms | 127KB)
+    Magnavox Odyssey²	    (13 Roms | 36.9KB)
+    Vectrex 		        (11 Roms | 46.2KB)
 
 Third Generation (1983-2003)
 
-    Nintendo Entertainment System (NES) (1983) (364 Roms | 41.4MB)
-    Nintendo Famicom Disk System (1986) (35 Roms | 1.98MB)
-    Sega Master System (1985) (159 Roms | 21MB)
-    Atari 7800 (1986) (53 Roms | 1.57MB)
+    Nintendo Entertainment System (NES) (1983)    (364 Roms | 41.4MB)
+    Nintendo Famicom Disk System (1986)            (35 Roms | 1.98MB)
+    Sega Master System (1985)                     (159 Roms | 21MB)
+    Atari 7800 (1986)                              (53 Roms | 1.57MB)
 
 Fourth Generation (1987-2004)
 
