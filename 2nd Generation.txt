@@ -1,10 +1,10 @@
 -2nd Generation-
-Atari 2600	     	   (124 Roms | 631KB)
-Atari 5200				(12 Roms | 85.4KB)
-ColecoVision			(26 Roms | 286KB)
+Atari 2600	       (124 Roms | 631KB)
+Atari 5200		(12 Roms | 85.4KB)
+ColecoVision		(26 Roms | 286KB)
 Mattel Intellivision	(18 Roms | 127KB)
-Magnavox Odyssey²		(13 Roms | 36.9KB)
-Vectrex 				(11 Roms | 46.2KB)
+Magnavox Odyssey²	(13 Roms | 36.9KB)
+Vectrex 		(11 Roms | 46.2KB)
 
 Atari 2600 (124 Roms | 631KB)
 	Adventures of TRON (USA)
